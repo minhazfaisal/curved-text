@@ -1,0 +1,23 @@
+#text1
+{
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: #ee007b;
+}
+
+#text2
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    width:            50%;
+    color:            #ffffff;
+    background-color: #fbab11;
+}
+
+#text3
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: #d81c82;
+}
